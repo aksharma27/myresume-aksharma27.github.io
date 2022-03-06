@@ -1,0 +1,63 @@
+*{
+    background-color: rgb(34, 32, 32);
+    color: rgb(189, 189, 189);
+}
+h1{
+    margin: 20px 38px;
+}
+.link ul{ 
+    list-style-type: none;
+    list-style-type: none;
+    font: bold;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+}
+.link ul li{
+    display: inline;
+}
+.contacts ul li {
+    list-style: none;
+    font-weight: 600;
+}
+.contacts{
+    margin: -44px 0px 35px 1077px;
+}
+.Ed{
+    font-size: larger;
+    margin: -10px 40px -23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.education ul li{
+    font-weight: 780;
+    font-size: 20px;
+}
+.details{
+    margin: -62px 0px 35px 1189px;
+}
+.details ul li{
+    list-style-type: none;
+    font-weight: 580;
+    font-size: 17px;
+}
+.skills .head{
+    font-weight: 800px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: -10px 40px -20px;
+}
+.skills .myskills{
+    font-weight: 780;
+    font-size: 18px;
+}
+.projects h3{
+    font-size: larger;
+    margin: 10px 40px -7px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    color: white;
+    margin: 262px 558px 11px 582px;
+}
+a{
+    color: lightblue;
+}
